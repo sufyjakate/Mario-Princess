@@ -1,0 +1,6 @@
+The following are the required libraries:
+
+1. Flask
+2. flask_restful
+3. flask_sqlalchemy
+4. flask_marshmallow
